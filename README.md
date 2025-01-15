@@ -3,7 +3,7 @@
 This project is a **scientific calculator** built using **React**, replicating the macOS calculator interface. It supports a wide range of scientific functions and has a sleek modern design.
 
 ## 🚀 Live Demo
-Check out the live version here: [Scientific Calculator](https://scientific-calculator-s8gn.vercel.app/)
+Check out the live version here: [Scientific Calculator](https://calcify-psi.vercel.app/)
 
 ## 📦 Features
 - Basic arithmetic operations (+, -, ×, ÷)

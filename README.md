@@ -16,7 +16,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ananyamohanty027/scientific-calculator.git
+   git clone https://github.com/ananyamohanty027/Calcify.git
    ```
 2. **Navigate to the project directory:**
    ```bash

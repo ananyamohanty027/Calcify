@@ -1,4 +1,4 @@
-# Scientific Calculator
+# Calcify
 
 This project is a **scientific calculator** built using **React**, replicating the macOS calculator interface. It supports a wide range of scientific functions and has a sleek modern design.
 
